@@ -1,7 +1,7 @@
 - 👋 Hi, I’m liyle3
 - 👀 I’m interested in Data Visualization
-- 🌱 I’m currently learning AI4SCI
-- 💞️ I’m looking to collaborate on deep learning project for molecule
+- 🌱 I’m currently studying AI4SCI
+- 💞️ I’m looking to collaborate on deep learning for molecule
 - 📫 How to reach me: liyle3lenus@gmail.com
 
 <!---
